@@ -1,0 +1,14 @@
+layout_spectrum: 0.5801894487813115
+typography_spectrum: 0.7503259629011154
+color:
+  brandStrength: 0.43704542238265276
+  lightness: 0.07794767012819648
+  saturation: 0.412601261632517
+  rhythmicContrast: 0.1571859079413116
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: drones
